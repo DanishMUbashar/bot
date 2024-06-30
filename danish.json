@@ -1,0 +1,114 @@
+{
+    "personal_info": {
+        "name": "Danish Mubashar",
+        "father": "Mubashar Hassan Sabri",
+        "age": "19",
+        "email": "danishmubashar81@gmail.com",
+        "hobbies": [
+            "reading",
+            "traveling",
+            "coding",
+            "playing chess",
+            "photography"
+        ],
+        "birthdate": "2004-12-01",
+        "address": "Chack 81 EB Arifwala",
+        "study": "BSCS",
+        "university": "University of Sahiwal",
+        "semester": "5th",
+        "cgpa": "3.53",
+        "passout": "2026",
+        "languages": [
+            "English",
+            "Urdu",
+            "Punjabi"
+        ],
+        "favorite_subjects": [
+            "Artificial Intelligence",
+            "Data Science",
+            "Machine Learning",
+            "Hacking"
+        ]
+    },
+    "professional_info": {
+        "job_title": "Data Scientist and Machine Learning Engineer",
+        "skills": [
+            "Python",
+            "Data Science",
+            "Machine Learning",
+            "Deep Learning",
+            "Statistics",
+            "Data Visualization",
+            "SQL",
+            "Big Data Technologies"
+        ],
+        "experience": [
+            {
+                "position": "Junior Data Scientist",
+                "company": "No Company",
+                "years": 1,
+                "responsibilities": [
+                    "Developing machine learning models",
+                    "Data cleaning and preprocessing",
+                    "Data analysis and visualization"
+                ]
+            },
+            {
+                "position": "Intern",
+                "company": "No Company",
+                "years": 1,
+                "responsibilities": [
+                    "Assisting in research projects",
+                    "Data entry and management",
+                    "Supporting senior data scientists"
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Data Science Professional Certificate",
+                "issuer": "Codanics",
+                "year": "2024"
+            },
+            {
+                "name": "Machine Learning Specialization",
+                "issuer": "Codanics",
+                "year": 2024
+            }
+        ]
+    },
+    "preferences": {
+        "favorite_movies": [
+            "In A Violent Nature",
+            "Gold",
+            "Inception",
+            "Interstellar"
+        ],
+        "favorite_books": [
+            "Holy Quran",
+            "Geek Love",
+            "The Handmaid's Tale",
+            "1984",
+            "The Alchemist"
+        ],
+        "favorite_food": [
+            "Pizza",
+            "Biryani",
+            "Sushi"
+        ],
+        "favorite_singer": "Attaullah Khan Esakhelvi",
+        "favorite_sport": "Cricket",
+        "favorite_animal": "Horse",
+        "favorite_quote": "The best way to predict the future is to create it.",
+        "favorite_leader": "Imran Khan",
+        "hometown": "Chack 81 EB Arifwala",
+        "dream_job": "ML Engineer",
+        "lover_or_girlfriend": "I don't have a girlfriend",
+        "favorite_programming_language": "Python",
+        "favorite_technology": "Artificial Intelligence",
+        "future_goals": [
+            "Become a leading expert in AI",
+            "Contribute to open-source projects"
+        ]
+    }
+}
